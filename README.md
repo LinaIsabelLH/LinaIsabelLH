@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Lina Isabel Londono Hidalgo
 
-## A passionate Fullstack Developer
+## A passionate Fullstack Developer JS/REACT/TS
 
 
 🌐 My profile: [Link of my Linkedin](https://www.linkedin.com/in/lina-isabel-londono-hidalgo/)
