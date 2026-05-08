@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Lina Isabel Londono Hidalgo
+# Hi 👋, I'm Lina Isabel LH
 
 ## Fullstack Developer
 
