@@ -7,8 +7,6 @@
 
 🌐 My profile: [Link of my Linkedin](https://www.linkedin.com/in/lina-isabel-londono-hidalgo/)
 
-📫 Contact me at [londonohidalgo@gmail.com](mailto:londonohidalgo@gmail.com) or at 📞 🇫🇷+33 (0)7 51 62 36 18
-
 🌱 Take a look at my Github profile status to see what I am working / training on.
 </div>
 
